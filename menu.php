@@ -11,7 +11,7 @@
                 <a href="responsive-design.php" class="list-group-item link-item">Responsive Design</a>
                 <a href="adaptive-images.php" class="list-group-item link-item">Adaptive Images</a>
                 <a href="responsive-menu.php" class="list-group-item link-item">Responsive menu</a>
-                <!--<a href="slider.php" class="list-group-item link-item">Slider</a>-->
+                <a href="image-overlay/" class="list-group-item link-item" target="_blank">Image Overlay</a>
             </div>
         </div>
     </div>
